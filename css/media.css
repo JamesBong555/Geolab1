@@ -1,0 +1,912 @@
+/*
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    .container{
+      margin-top: -40px;
+    }
+
+
+  }
+
+
+  @media screen and (max-width: 600px) {
+    .columndr {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  @media screen and (min-width: 2560px) {
+    h1 {
+      margin-top: 350px;
+      font-size: 750%;
+      line-height: 100%;
+    }
+    .readmore,.aboutus{
+      margin-top: 650px;
+      width: 400px;
+      height: 50px;
+      font-size: 32px;
+      line-height: 150%;
+    }
+    .aboutus{
+      margin-left: 500px;
+    }
+    .dr{
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+
+@media screen and (max-width: 2560px){
+  h1{
+    margin-left: 100px;
+    margin-top: 300px;
+  }
+  .readmore,.aboutus{
+    margin-top: 500px;
+    margin-left: 100px;
+  }
+  .aboutus{
+    margin-left: 300px;
+  }
+}
+
+@media screen and (max-width:1500px) {
+.topnav {
+  margin: 0 auto;
+}
+
+.topnav > a{
+  font-size: 12px;
+  line-height: 20px;
+}
+
+}
+@media screen and (max-width:1600px) {
+main>h1{
+  margin-top: 200px;
+}
+.readmore,.aboutus{
+  margin-top: 370px;
+}
+}
+
+@media screen and (max-width:1300px) {
+
+  main>h1{
+    font-size: 50px;
+    line-height: 100%;
+    margin-top: 180px;
+  }
+  .readmore,.aboutus{
+    margin-top: 300px;
+  }
+  .topnav {
+    margin: 0 auto;
+  }
+  
+  .topnav > a{
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 0px;
+    margin-right: 0%;
+  }
+  .logo{
+    margin-left: 50px;
+  }
+
+  .card1,.card2,.card3{
+    width: 200px;
+  }
+
+  .card{
+    margin-left: 60px;
+  }
+
+  .card22{
+    width: 90px;
+    margin-left: 60px;
+    margin-top: 30px;
+  }
+
+  .readmoretoprotect1{
+    width: 100px;
+    height: 10px;
+    margin-left: -370px;
+    margin-top: 480px;
+    line-height: 70%;
+  }
+  .readmoretoprotect2{
+    width: 100px;
+    height: 10px;
+    margin-left: 60px;
+    margin-top: 480px;
+    line-height: 70%;
+  }  .readmoretoprotect3{
+    width: 100px;
+    height: 10px;
+    margin-left: 510px;
+    margin-top: 480px;
+    line-height: 70%;
+  }
+  .footermap,.footercontact{
+    margin-top: 300px;
+    margin-left: -400px;
+    position: absolute;
+  
+  }
+  .footermap{
+    margin-left: 450px;
+  }
+  .footercontact{
+    margin-top: 306px;
+    width: 400px;
+    margin-left: -520px;
+  }
+  .contactfooter,  .contactfooter1,  .contactfooter2{
+    margin-left: 100px;
+  }
+}
+
+@media screen and (max-width:1050px) {
+  main>h1{
+    font-size: 50px;
+    line-height: 100%;
+    margin-top: 100px;
+    margin-left: 50px;
+  }
+  .readmore,.aboutus{
+    margin-top: 220px;
+    margin-left: 55px;
+  }
+  .aboutus{
+    margin-left: 240px;
+  }
+.container{
+  width: 400px;
+}
+.secondh1{
+  margin-top: -100px;
+}
+.covidaboutmore{
+  width: 200px;
+  height: 30px;
+  line-height: 180%;
+}
+.picofcovid{
+  margin-left: 250px;
+  margin-top: 0px;
+  width: 200px;
+}
+
+.casea1,.casea2,.casea3{
+  width: 100px;
+  height: 20px;
+  line-height: 110%;
+  margin-left: 10px;
+}
+
+
+}
+
+@media screen and (max-width:700px) {
+.covid{
+  margin-left: 50px;
+}
+}
+
+@media screen and (max-width:1300px) {
+  .sickgirl{
+    height: 300px;
+    margin-top: -50px;
+    margin-left: 0px;
+    
+  }
+  .sickgirlh2{
+    margin-top: 150px;
+   margin-top: 250px;
+   margin-left: -500px;
+   text-align: center;
+  
+  }
+  .sickgirlp{
+    margin-top: 450px;
+    margin-left: -300px;
+    text-align: center;
+  
+  
+  }
+  
+  .sickgirla{
+    margin-top: 600px;
+    margin-left: 10px;
+  }
+
+  footer{
+    height: 730px;
+  }
+
+
+}
+
+@media screen and (max-width:750px) {
+  .topnav{
+    height: 0px;
+  }
+  .logo{
+    width: 0px;
+  }
+  main>h1{
+    font-size: 50px;
+    line-height: 100%;
+    margin-top: 40px;
+    margin-left: 50px;
+  }
+  .readmore,.aboutus{
+    margin-top: 160px;
+    margin-left: 55px;
+  }
+  .aboutus{
+    margin-left: 240px;
+  }
+.container{
+  width: 400px;
+}
+
+.readmoretoprotect1{
+  width: 100px;
+  height: 10px;
+  margin-left: -420px;
+  margin-top: 480px;
+  line-height: 70%;
+}
+.readmoretoprotect2{
+  width: 100px;
+  height: 10px;
+  margin-left: 20px;
+  margin-top: 480px;
+  line-height: 70%;
+}  .readmoretoprotect3{
+  width: 100px;
+  height: 10px;
+  margin-left: 470px;
+  margin-top: 480px;
+  line-height: 70%;
+}
+
+.protectionpic{
+ border-radius: 1px;
+}
+
+.casep{
+  font-size: 14px;
+}
+
+.footermap{
+  margin-left: 300px;
+}
+.footercontact{
+  margin-top: 306px;
+  width: 400px;
+  margin-left: -320px;
+}
+.contactfooter,  .contactfooter1,  .contactfooter2{
+  margin-left: 100px;
+}
+
+}
+
+
+@media screen and (max-width:1750px) {
+  .fname,.submitclass{
+    width: 90%;
+    position: absolute;
+    margin-top: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-radius: 100px;
+    margin-top: 70px;
+    height: 70px;
+    color: white;
+    margin-left: 4%;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .submitclass{
+    margin-top: 150px;
+    width: 400px;
+    cursor: pointer;
+  }
+  
+
+}
+
+
+
+
+
+
+@media screen and (max-width:1750px){
+.fname,.submitclass{
+  width: 90%;
+  position: absolute;
+  margin-top: 50px;
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  border-radius: 100px;
+  margin-top: 70px;
+  height: 50px;
+  color: white;
+  margin-left: 4%;
+  font-size: 22px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.submitclass{
+  margin-top: 120px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.geolabowl{
+  width: 200px;
+  margin-top: 200px;
+}
+}
+
+@media screen and (max-width:1250px){
+.fname,.submitclass{
+  width: 90%;
+  position: absolute;
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  border-radius: 100px;
+  margin-top: 50px;
+  height: 50px;
+  color: white;
+  margin-left: 4%;
+  font-size: 22px;
+  font-family: 'Poppins', sans-serif;}
+  
+  .submitclass{
+    margin-top: 100px;
+    width: 400px;
+    cursor: pointer;
+  }
+  
+  .geolabowl{
+    width: 200px;
+    margin-top: 200px;
+  }
+  }
+
+  @media screen and (max-width:900px){
+    .fname,.submitclass{
+      width: 90%;
+      position: absolute;
+      background-color: transparent;
+      border-style: solid;
+      border-color: white;
+      border-radius: 100px;
+      margin-top: 50px;
+      height: 30px;
+      color: white;
+      margin-left: 4%;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;}
+      
+      .submitclass{
+        margin-top: 80px;
+        width: 200px;
+        cursor: pointer;
+      }
+      
+      .geolabowl{
+        width: 200px;
+        margin-top: 200px;
+      }
+      }
+
+@media screen and (max-width:700px){
+.fname,.submitclass{
+  width: 90%;
+  position: absolute;
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  border-radius: 100px;
+  margin-top: 30px;
+  height: 30px;
+  color: white;
+  margin-left: 4%;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;}
+          
+.submitclass{
+  margin-top: 60px;
+  width: 200px;
+  cursor: pointer;
+}
+.geolabowl{
+  width: 200px;
+  margin-top: 200px;
+}
+}
+*/
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  .container{
+    margin-top: -40px;
+  }
+
+
+}
+
+
+@media screen and (max-width: 600px) {
+  .columndr {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (min-width: 2560px) {
+  h1 {
+    margin-top: 350px;
+    font-size: 750%;
+    line-height: 100%;
+  }
+  .readmore,.aboutus{
+    margin-top: 650px;
+    width: 400px;
+    height: 50px;
+    font-size: 32px;
+    line-height: 150%;
+  }
+  .aboutus{
+    margin-left: 500px;
+  }
+  .dr{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 2560px){
+h1{
+  margin-left: 100px;
+  margin-top: 300px;
+}
+.readmore,.aboutus{
+  margin-top: 500px;
+  margin-left: 100px;
+}
+.aboutus{
+  margin-left: 300px;
+}
+}
+
+@media screen and (max-width:1500px) {
+.topnav {
+margin: 0 auto;
+}
+
+.topnav > a{
+font-size: 12px;
+line-height: 20px;
+}
+
+}
+@media screen and (max-width:1600px) {
+.h11{
+margin-top: 200px;
+}
+.readmore,.aboutus{
+margin-top: 370px;
+}
+}
+
+@media screen and (max-width:1300px) {
+
+.h11{
+  font-size: 50px;
+  line-height: 100%;
+  margin-top: 180px;
+}
+.readmore,.aboutus{
+  margin-top: 300px;
+}
+.topnav {
+  margin: 0 auto;
+}
+
+.topnav > a{
+  font-size: 12px;
+  line-height: 20px;
+  margin-left: 0px;
+  margin-right: 0%;
+}
+.logo{
+  margin-left: 50px;
+}
+
+.card1,.card2,.card3{
+  width: 200px;
+}
+
+.card{
+  margin-left: 60px;
+}
+
+.card22{
+  width: 90px;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.readmoretoprotect1{
+  width: 100px;
+  height: 10px;
+  margin-left: -370px;
+  margin-top: 480px;
+  line-height: 70%;
+}
+.readmoretoprotect2{
+  width: 100px;
+  height: 10px;
+  margin-left: 60px;
+  margin-top: 480px;
+  line-height: 70%;
+}  .readmoretoprotect3{
+  width: 100px;
+  height: 10px;
+  margin-left: 510px;
+  margin-top: 480px;
+  line-height: 70%;
+}
+.footermap,.footercontact{
+  margin-top: 300px;
+  margin-left: -400px;
+  position: absolute;
+
+}
+.footermap{
+  margin-left: 450px;
+}
+.footercontact{
+  margin-top: 306px;
+  width: 400px;
+  margin-left: -520px;
+}
+.contactfooter,  .contactfooter1,  .contactfooter2{
+  margin-left: 100px;
+}
+}
+
+@media screen and (max-width:1050px) {
+.h11{
+  font-size: 50px;
+  line-height: 100%;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.readmore,.aboutus{
+  margin-top: 220px;
+  margin-left: 55px;
+}
+.aboutus{
+  margin-left: 240px;
+}
+.container{
+width: 400px;
+}
+.secondh1{
+margin-top: -100px;
+}
+.covidaboutmore{
+width: 200px;
+height: 30px;
+line-height: 180%;
+}
+.picofcovid{
+margin-left: 250px;
+margin-top: 0px;
+width: 200px;
+}
+
+.casea1,.casea2,.casea3{
+width: 100px;
+height: 20px;
+line-height: 110%;
+margin-left: 10px;
+}
+
+
+}
+
+@media screen and (max-width:700px) {
+.covid{
+margin-left: 50px;
+}
+}
+
+@media screen and (max-width:1300px) {
+.sickgirl{
+  height: 300px;
+  margin-top: -50px;
+  margin-left: 0px;
+  
+}
+.sickgirlh2{
+  margin-top: 150px;
+ margin-top: 250px;
+ margin-left: -500px;
+ text-align: center;
+
+}
+.sickgirlp{
+  margin-top: 450px;
+  margin-left: -300px;
+  text-align: center;
+
+
+}
+
+.sickgirla{
+  margin-top: 600px;
+  margin-left: 10px;
+}
+
+footer{
+  height: 730px;
+}
+
+
+}
+
+@media screen and (max-width:750px) {
+.topnav{
+  height: 0px;
+}
+.logo{
+  width: 0px;
+}
+.h11{
+  font-size: 50px;
+  line-height: 100%;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.readmore,.aboutus{
+  margin-top: 160px;
+  margin-left: 55px;
+}
+.aboutus{
+  margin-left: 240px;
+}
+.container{
+width: 400px;
+}
+
+.readmoretoprotect1{
+width: 100px;
+height: 10px;
+margin-left: -420px;
+margin-top: 480px;
+line-height: 70%;
+}
+.readmoretoprotect2{
+width: 100px;
+height: 10px;
+margin-left: 20px;
+margin-top: 480px;
+line-height: 70%;
+}  .readmoretoprotect3{
+width: 100px;
+height: 10px;
+margin-left: 470px;
+margin-top: 480px;
+line-height: 70%;
+}
+
+.protectionpic{
+border-radius: 1px;
+}
+
+.casep{
+font-size: 14px;
+}
+
+.footermap{
+margin-left: 300px;
+}
+.footercontact{
+margin-top: 306px;
+width: 400px;
+margin-left: -320px;
+}
+.contactfooter,  .contactfooter1,  .contactfooter2{
+margin-left: 100px;
+}
+
+}
+
+
+@media screen and (max-width:1750px) {
+.fname,.submitclass{
+  width: 90%;
+  position: absolute;
+  margin-top: 50px;
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+  border-radius: 100px;
+  margin-top: 70px;
+  height: 70px;
+  color: white;
+  margin-left: 4%;
+  font-size: 22px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.submitclass{
+  margin-top: 150px;
+  width: 400px;
+  cursor: pointer;
+}
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width:1750px){
+.fname,.submitclass{
+width: 90%;
+position: absolute;
+margin-top: 50px;
+background-color: transparent;
+border-style: solid;
+border-color: white;
+border-radius: 100px;
+margin-top: 70px;
+height: 50px;
+color: white;
+margin-left: 4%;
+font-size: 22px;
+font-family: 'Poppins', sans-serif;
+}
+
+.submitclass{
+margin-top: 120px;
+width: 400px;
+cursor: pointer;
+}
+
+.geolabowl{
+width: 200px;
+margin-top: 200px;
+}
+}
+
+@media screen and (max-width:1250px){
+.fname,.submitclass{
+width: 90%;
+position: absolute;
+background-color: transparent;
+border-style: solid;
+border-color: white;
+border-radius: 100px;
+margin-top: 50px;
+height: 50px;
+color: white;
+margin-left: 4%;
+font-size: 22px;
+font-family: 'Poppins', sans-serif;}
+
+.submitclass{
+  margin-top: 100px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.geolabowl{
+  width: 200px;
+  margin-top: 200px;
+}
+}
+
+@media screen and (max-width:900px){
+  .fname,.submitclass{
+    width: 90%;
+    position: absolute;
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-radius: 100px;
+    margin-top: 50px;
+    height: 30px;
+    color: white;
+    margin-left: 4%;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;}
+    
+    .submitclass{
+      margin-top: 80px;
+      width: 200px;
+      cursor: pointer;
+    }
+    
+    .geolabowl{
+      width: 200px;
+      margin-top: 200px;
+    }
+    }
+
+@media screen and (max-width:700px){
+.fname,.submitclass{
+width: 90%;
+position: absolute;
+background-color: transparent;
+border-style: solid;
+border-color: white;
+border-radius: 100px;
+margin-top: 30px;
+height: 30px;
+color: white;
+margin-left: 4%;
+font-size: 16px;
+font-family: 'Poppins', sans-serif;}
+        
+.submitclass{
+margin-top: 60px;
+width: 200px;
+cursor: pointer;
+}
+.geolabowl{
+width: 200px;
+margin-top: 200px;
+}
+}
+
+
+@media screen and (min-width:1300px){
+  .geolabowl{
+  
+  margin-top: 20px;
+   }
+}
