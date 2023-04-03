@@ -903,6 +903,11 @@ margin-top: 200px;
 }
 }
 
+@media screen and (min-width:1750px){
+.geolabowl{
+  width: 200px;
+}
+}
 
 @media screen and (min-width:1300px){
   .geolabowl{
